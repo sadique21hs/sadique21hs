@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hello, World! I'm Md Sadique Hossain
 
-<!--
-**sadique21hs/sadique21hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science and Engineering student at United International University, exploring the fascinating realms of technology. Currently diving deep into the world of programming languages, I'm on a journey to master the art of code.
 
-Here are some ideas to get you started:
+#### 🚀 What I'm Up To:
+- 🎓 Studying Computer Science and Engineering
+- 💻 Learning and coding in various programming languages
+- 🌐 Building a strong foundation for a future in technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack:
+- 🖥️ Proficient in  HTML / CSS / c / c++ / java
+- 🎨 Adept at Graphic Design
+
+#### 🤝 Let's Connect:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/md-sadique-hossain/)
+- 📧 Email: sadique21.hossain@gmail.com
+
+Excited to contribute, collaborate, and learn in this ever-evolving tech landscape. Let's code the future together!
