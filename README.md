@@ -8,7 +8,7 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - 🌐 Building a strong foundation for a future in technology
 
 #### 🛠️ Tech Stack:
-- 🖥️ Proficient in  HTML / CSS / c / c++ / java
+- 🖥️ Proficient in  HTML / CSS / C / C++ / JAVA
 - 🎨 Adept at Graphic Design
 
 #### 🤝 Let's Connect:
