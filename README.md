@@ -1,4 +1,4 @@
-### 👋 Hello, World! I'm Md Sadique Hossain
+### 👋 Hello! I'm Md Sadique Hossain
 
 I'm a passionate Computer Science and Engineering student at United International University, exploring the fascinating realms of technology. Currently diving deep into the world of programming languages, I'm on a journey to master the art of code.
 
