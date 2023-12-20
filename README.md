@@ -12,7 +12,7 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - 🎨 Adept at Graphic Design
 
 #### 🤝 Let's Connect:
-- 🌐 LinkedIn: (https://www.linkedin.com/in/md-sadique-hossain/)
+- 🌐 LinkedIn: https://www.linkedin.com/in/md-sadique-hossain/
 - 📧 Email: sadique21.hossain@gmail.com
 
 Excited to contribute, collaborate, and learn in this ever-evolving tech landscape. Let's code the future together!
