@@ -1,5 +1,8 @@
 ### 👋 Hello! I'm Md Sadique Hossain
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-sadique-hossain/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/sadique21hs)
+
 I'm a passionate Computer Science and Engineering student at United International University, exploring the fascinating realms of technology. Currently diving deep into the world of programming languages, I'm on a journey to master the art of code.
 
 #### 🚀 What I'm Up To:
@@ -12,7 +15,6 @@ I'm a passionate Computer Science and Engineering student at United Internationa
 - 🎨 Adept at Graphic Design
 
 #### 🤝 Let's Connect:
-- 🌐 LinkedIn: https://www.linkedin.com/in/md-sadique-hossain/
 - 📧 Email: sadique21.hossain@gmail.com
 
 Excited to contribute, collaborate, and learn in this ever-evolving tech landscape. Let's code the future together!
