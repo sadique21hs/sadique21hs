@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sadique Hossain</h1>
 <h3 align="center">I'm a passionate Computer Science and Engineering student at United International University, exploring the fascinating realms of technology. Currently diving deep into the world of programming languages, I'm on a journey to master the art of code.</h3>
 
-<img  align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cloud-img" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadique21hs&label=Profile%20views&color=0e75b6&style=flat" alt="sadique21hs" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sadique21hs" target="blank"><img src="https://img.shields.io/twitter/follow/sadique21hs?logo=twitter&style=for-the-badge" alt="sadique21hs" /></a> </p>
 
