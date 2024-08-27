@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sadique21hs" target="blank"><img src="https://img.shields.io/twitter/follow/sadique21hs?logo=twitter&style=for-the-badge" alt="sadique21hs" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **sadique21.hossain@gmail.com**
 
